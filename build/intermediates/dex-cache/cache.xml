@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\debug\classes-c2b47292feb4cd6bc01b0c4ebf8c7ffb54d7f0ae.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\debug\classes-88ae51ef6195d0c5f736d65697b6b4d29f865fd0.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\classes-be559b7b2c30f994e57d2047f18cec4e33e21f7b.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-c7f47880b1f8ab0b84c957a2555d3a94ca056373.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\debug\classes-be559b7b2c30f994e57d2047f18cec4e33e21f7b.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\classes-e76ddbb98b629872970df5fc3e8b7a059d835c3c.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\classes-88ae51ef6195d0c5f736d65697b6b4d29f865fd0.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\classes-016553193d3f28abb9382503f6b6df80be428e6c.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d2772338dc47df77740263fe45995baa29d75faf">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\classes-9981f41ede6f1dff58edc8cf75a73f788796b9f1.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\internal_impl-23.3.0-b1967cea78fbff8642ae9dbd9e7c436d387a4880.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d2772338dc47df77740263fe45995baa29d75faf">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\debug\classes-9981f41ede6f1dff58edc8cf75a73f788796b9f1.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\libs\StartAppInApp-3.4.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ff67e89b324f50437e3c97c23c8b55e39692e099">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\debug\StartAppInApp-3.4.1-d16cd63a07fe3d5cddf4674b0c36e1ce70ae2421.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\libs\StartAppInApp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ff67e89b324f50437e3c97c23c8b55e39692e099">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\StartAppInApp-3.4.1-d16cd63a07fe3d5cddf4674b0c36e1ce70ae2421.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\support-annotations-23.3.0-7b2eb3f46f881a4286e751e39ea6bcb9c069337e.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\classes-d834c7984e73e1b10498d7d3bc4049e5f960fc16.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-d1aa55e90f806aa6d381a079a68beed78d7ac3ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\AkashYad\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\picasso-2.5.2-a2e09f9d3aecaa4648d23e7392aac950e8f401e0.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\1.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7bbb86d8e9464d6d277f31ab31ef6625f226b58b">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\classes-e518dedede729dc20a428e3b1842ea329ba7be3a.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\classes-a89cddb09e400323758eaf0e6e8f21e253d04526.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\debug\classes-05164816faf030c7a86954e05f2d504dc1aadb19.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\debug\classes-ac7453ab976f73f00dcb8f712ebec5631117a9ca.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\classes-3ba9877704dd54d270f3ef7ca0be8fe8ad58caff.jar" />
+    </item>
+    <item
+        jar="E:\FastCalculation2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="E:\FastCalculation2\app\build\intermediates\pre-dexed\release\classes-8f7c0edfb0cee0a3d559e5bcc14b67c29dacbd94.jar" />
+    </item>
+
+</items>

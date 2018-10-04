@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:background="@color/fbutton_color_midnight_blue"
+    xmlns:custom="http://schemas.android.com/apk/res-auto" 
+    android:orientation="vertical"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent" >
+
+    <android.support.v7.widget.RecyclerView
+
+        android:id="@+id/table_detail"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:divider="@null"
+        android:layout_weight="1"
+        android:listSelector="@null" >
+    </android.support.v7.widget.RecyclerView>
+
+
+ <!--<com.google.android.gms.ads.AdView-->
+        <!--android:id="@+id/adView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="0dp"-->
+        <!--android:layout_gravity="bottom"-->
+        <!--ads:adUnitId="@string/banner_ad_unit_id"-->
+        <!--ads:adSize="BANNER"-->
+        <!--android:layout_weight=".3"-->
+         <!-->-->
+    <!--</com.google.android.gms.ads.AdView>-->
+</LinearLayout>
